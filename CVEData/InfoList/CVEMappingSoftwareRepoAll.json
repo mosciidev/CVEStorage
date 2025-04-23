@@ -49903,6 +49903,12 @@
     ]
   },
   {
+    "CVEID": "CVE-2019-19247",
+    "SoftwareRepoIDList": [
+      "d2da5782-9f6b-4fd2-8c36-5e9ebfa9ed8f"
+    ]
+  },
+  {
     "CVEID": "CVE-2019-12828",
     "SoftwareRepoIDList": [
       "d2da5782-9f6b-4fd2-8c36-5e9ebfa9ed8f"
