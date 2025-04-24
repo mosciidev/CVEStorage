@@ -1,5 +1,71 @@
 [
   {
+    "CVEID": "CVE-2005-4474",
+    "SoftwareRepoIDList": [
+      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3845",
+    "SoftwareRepoIDList": [
+      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0331",
+    "SoftwareRepoIDList": [
+      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3263",
+    "SoftwareRepoIDList": [
+      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0235",
+    "SoftwareRepoIDList": [
+      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1254",
+    "SoftwareRepoIDList": [
+      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0234",
+    "SoftwareRepoIDList": [
+      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3912",
+    "SoftwareRepoIDList": [
+      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3262",
+    "SoftwareRepoIDList": [
+      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1495",
+    "SoftwareRepoIDList": [
+      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4620",
+    "SoftwareRepoIDList": [
+      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
+    ]
+  },
+  {
     "CVEID": "CVE-2018-20250",
     "SoftwareRepoIDList": [
       "afe96fcf-e539-4a73-b190-a34d0a2f7436"
@@ -48,69 +114,15 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-3912",
+    "CVEID": "CVE-2006-2312",
     "SoftwareRepoIDList": [
-      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
+      "9e8ec469-ab35-4799-b1b6-60591603fb53"
     ]
   },
   {
-    "CVEID": "CVE-2006-3845",
+    "CVEID": "CVE-2004-1778",
     "SoftwareRepoIDList": [
-      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4620",
-    "SoftwareRepoIDList": [
-      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4474",
-    "SoftwareRepoIDList": [
-      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3263",
-    "SoftwareRepoIDList": [
-      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3262",
-    "SoftwareRepoIDList": [
-      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0331",
-    "SoftwareRepoIDList": [
-      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1495",
-    "SoftwareRepoIDList": [
-      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1254",
-    "SoftwareRepoIDList": [
-      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0235",
-    "SoftwareRepoIDList": [
-      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0234",
-    "SoftwareRepoIDList": [
-      "afe96fcf-e539-4a73-b190-a34d0a2f7436"
+      "9e8ec469-ab35-4799-b1b6-60591603fb53"
     ]
   },
   {
@@ -127,18 +139,6 @@
   },
   {
     "CVEID": "CVE-2009-4741",
-    "SoftwareRepoIDList": [
-      "9e8ec469-ab35-4799-b1b6-60591603fb53"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2312",
-    "SoftwareRepoIDList": [
-      "9e8ec469-ab35-4799-b1b6-60591603fb53"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1778",
     "SoftwareRepoIDList": [
       "9e8ec469-ab35-4799-b1b6-60591603fb53"
     ]
@@ -20708,6 +20708,54 @@
     ]
   },
   {
+    "CVEID": "CVE-2006-3628",
+    "SoftwareRepoIDList": [
+      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4332",
+    "SoftwareRepoIDList": [
+      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4330",
+    "SoftwareRepoIDList": [
+      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3627",
+    "SoftwareRepoIDList": [
+      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3630",
+    "SoftwareRepoIDList": [
+      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3631",
+    "SoftwareRepoIDList": [
+      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4333",
+    "SoftwareRepoIDList": [
+      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4331",
+    "SoftwareRepoIDList": [
+      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
+    ]
+  },
+  {
     "CVEID": "CVE-2023-1161",
     "SoftwareRepoIDList": [
       "860d7f8a-2eda-471e-a32d-3e20a772fa70"
@@ -24632,54 +24680,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-4333",
-    "SoftwareRepoIDList": [
-      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-4332",
-    "SoftwareRepoIDList": [
-      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-4331",
-    "SoftwareRepoIDList": [
-      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-4330",
-    "SoftwareRepoIDList": [
-      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3631",
-    "SoftwareRepoIDList": [
-      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3630",
-    "SoftwareRepoIDList": [
-      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3628",
-    "SoftwareRepoIDList": [
-      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3627",
-    "SoftwareRepoIDList": [
-      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
-    ]
-  },
-  {
     "CVEID": "CVE-2024-9780",
     "SoftwareRepoIDList": [
       "860d7f8a-2eda-471e-a32d-3e20a772fa70"
@@ -25367,6 +25367,114 @@
     "SoftwareRepoIDList": [
       "95e37031-b218-4f49-bc5d-a1001644447f",
       "eee33ac0-92dd-481d-914a-74216198b439"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3904",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0616",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3906",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0058",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3907",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1156",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0617",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0076",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2426",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1123",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0614",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-2540",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3905",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0615",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0471",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-1480",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-1099",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1029",
+    "SoftwareRepoIDList": [
+      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
     ]
   },
   {
@@ -27548,114 +27656,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-2426",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0617",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0616",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0615",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0614",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3907",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3906",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3905",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3904",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0471",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-2540",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1029",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1156",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1123",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0076",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0058",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-1480",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-1099",
-    "SoftwareRepoIDList": [
-      "52ec8596-3cb7-455f-80f8-5cb2553179d4"
-    ]
-  },
-  {
     "CVEID": "CVE-2023-26031",
     "SoftwareRepoIDList": [
       "e3490e94-3079-4942-b190-9d7b289fd197"
@@ -28209,6 +28209,12 @@
     ]
   },
   {
+    "CVEID": "CVE-2006-0477",
+    "SoftwareRepoIDList": [
+      "6d5ae94b-acf7-48f0-a673-e388f34f4d02"
+    ]
+  },
+  {
     "CVEID": "CVE-2024-32002",
     "SoftwareRepoIDList": [
       "6d5ae94b-acf7-48f0-a673-e388f34f4d02"
@@ -28240,12 +28246,6 @@
   },
   {
     "CVEID": "CVE-2008-5517",
-    "SoftwareRepoIDList": [
-      "6d5ae94b-acf7-48f0-a673-e388f34f4d02"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0477",
     "SoftwareRepoIDList": [
       "6d5ae94b-acf7-48f0-a673-e388f34f4d02"
     ]
@@ -28944,6 +28944,534 @@
     "CVEID": "CVE-2023-40786",
     "SoftwareRepoIDList": [
       "d97ef595-b7ba-4a1e-ae87-8401fc931a5e"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0596",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1549",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4484",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4433",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3392",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0860",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0166",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0249",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0958",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0200",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0985",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0959",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0238",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-2215",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3389",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3883",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-1247",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4485",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0524",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3319",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1063",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4023",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1015",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1392",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1020",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1991",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1017",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4483",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0595",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2563",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4020",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1490",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4486",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0863",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3390",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0594",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0059",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2660",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0996",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0253",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4481",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0172",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0484",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1990",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-1246",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0097",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0108",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3054",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1954",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0097",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0208",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0525",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1018",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3391",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1303",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0207",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0986",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3017",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-2214",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1494",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1302",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3388",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1783",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4625",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1396",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3353",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1064",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0861",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0068",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-1043",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0058",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0542",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0081",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1065",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0967",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1608",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1014",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1019",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0229",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0860",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-1385",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-2309",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-1042",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0442",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4482",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3011",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0717",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0121",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
     ]
   },
   {
@@ -32524,534 +33052,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-4625",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-4486",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-4485",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-4484",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-4483",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-4482",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-4481",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-4433",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-4023",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-4020",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3017",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3011",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2660",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2563",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1991",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1990",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1608",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1549",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1494",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1490",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1017",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1015",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1014",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0996",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0208",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0207",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0200",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0097",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3883",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3392",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3391",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3390",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3389",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3388",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3353",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3319",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3054",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-1043",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-1042",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0596",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0525",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0524",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1392",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1065",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1064",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1063",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1020",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1019",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1018",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0959",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0958",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0595",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0594",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0542",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1303",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1302",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0863",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0861",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0860",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0442",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0249",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0172",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0166",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0097",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-2309",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-2215",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-2214",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1954",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1783",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1396",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0986",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0985",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0717",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0484",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0253",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0229",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0121",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0081",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-1385",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-1247",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-1246",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0108",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0967",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0860",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0059",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0238",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0068",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0058",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
     "CVEID": "CVE-2022-24140",
     "SoftwareRepoIDList": [
       "1e5f6152-dd52-4c05-86da-a29123767b59"
@@ -33061,6 +33061,12 @@
     "CVEID": "CVE-2022-24139",
     "SoftwareRepoIDList": [
       "1e5f6152-dd52-4c05-86da-a29123767b59"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2102",
+    "SoftwareRepoIDList": [
+      "5e4d15be-0db7-4479-b1ae-3037bc155734"
     ]
   },
   {
@@ -33083,12 +33089,6 @@
   },
   {
     "CVEID": "CVE-2017-2817",
-    "SoftwareRepoIDList": [
-      "5e4d15be-0db7-4479-b1ae-3037bc155734"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2102",
     "SoftwareRepoIDList": [
       "5e4d15be-0db7-4479-b1ae-3037bc155734"
     ]
@@ -34748,6 +34748,56 @@
     ]
   },
   {
+    "CVEID": "CVE-2004-0200",
+    "SoftwareRepoIDList": [
+      "73ff5aa7-066f-4536-beaf-9b81da128c05",
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2127",
+    "SoftwareRepoIDList": [
+      "73ff5aa7-066f-4536-beaf-9b81da128c05",
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1300",
+    "SoftwareRepoIDList": [
+      "73ff5aa7-066f-4536-beaf-9b81da128c05"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1510",
+    "SoftwareRepoIDList": [
+      "73ff5aa7-066f-4536-beaf-9b81da128c05"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0509",
+    "SoftwareRepoIDList": [
+      "73ff5aa7-066f-4536-beaf-9b81da128c05"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0409",
+    "SoftwareRepoIDList": [
+      "73ff5aa7-066f-4536-beaf-9b81da128c05"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0369",
+    "SoftwareRepoIDList": [
+      "73ff5aa7-066f-4536-beaf-9b81da128c05"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1511",
+    "SoftwareRepoIDList": [
+      "73ff5aa7-066f-4536-beaf-9b81da128c05"
+    ]
+  },
+  {
     "CVEID": "CVE-2013-3129",
     "SoftwareRepoIDList": [
       "73ff5aa7-066f-4536-beaf-9b81da128c05",
@@ -35087,56 +35137,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-1511",
-    "SoftwareRepoIDList": [
-      "73ff5aa7-066f-4536-beaf-9b81da128c05"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1510",
-    "SoftwareRepoIDList": [
-      "73ff5aa7-066f-4536-beaf-9b81da128c05"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1300",
-    "SoftwareRepoIDList": [
-      "73ff5aa7-066f-4536-beaf-9b81da128c05"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2127",
-    "SoftwareRepoIDList": [
-      "73ff5aa7-066f-4536-beaf-9b81da128c05",
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0509",
-    "SoftwareRepoIDList": [
-      "73ff5aa7-066f-4536-beaf-9b81da128c05"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0200",
-    "SoftwareRepoIDList": [
-      "73ff5aa7-066f-4536-beaf-9b81da128c05",
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0409",
-    "SoftwareRepoIDList": [
-      "73ff5aa7-066f-4536-beaf-9b81da128c05"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0369",
-    "SoftwareRepoIDList": [
-      "73ff5aa7-066f-4536-beaf-9b81da128c05"
-    ]
-  },
-  {
     "CVEID": "CVE-2023-40352",
     "SoftwareRepoIDList": [
       "d882ae12-4fe3-4eaa-b9ba-fa1c8e2c3e9c"
@@ -35249,6 +35249,18 @@
     "CVEID": "CVE-2015-8991",
     "SoftwareRepoIDList": [
       "26be3dc4-4deb-4021-9c6c-8ccb57cf307b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0654",
+    "SoftwareRepoIDList": [
+      "0a145fc8-2d54-4e8c-9f7a-dd6e7bd41004"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3404",
+    "SoftwareRepoIDList": [
+      "0a145fc8-2d54-4e8c-9f7a-dd6e7bd41004"
     ]
   },
   {
@@ -35456,18 +35468,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-3404",
-    "SoftwareRepoIDList": [
-      "0a145fc8-2d54-4e8c-9f7a-dd6e7bd41004"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0654",
-    "SoftwareRepoIDList": [
-      "0a145fc8-2d54-4e8c-9f7a-dd6e7bd41004"
-    ]
-  },
-  {
     "CVEID": "CVE-2018-18447",
     "SoftwareRepoIDList": [
       "bc199068-ab9a-4d7c-853b-223bcb7ab8dc"
@@ -35531,6 +35531,204 @@
     "CVEID": "CVE-2020-9616",
     "SoftwareRepoIDList": [
       "c5616e03-20f7-4de1-971f-0a384f30614e"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3897",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3224",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4678",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3372",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0976",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1199",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1552",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0370",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1986",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2522",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1985",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2594",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-1385",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4504",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0234",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1122",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0514",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2019",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1987",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2272",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0355",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1988",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0720",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0341",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3018",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3946",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1121",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0975",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2516",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2524",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2517",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1314",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0361",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
     ]
   },
   {
@@ -42975,204 +43173,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-3946",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3372",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3224",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2019",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1988",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1987",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1986",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1985",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1552",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4678",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4504",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3897",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3018",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2594",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2524",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2522",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2517",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2516",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2272",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-1385",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0976",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0341",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0234",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1314",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1199",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1122",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1121",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0720",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0361",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0975",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0514",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0370",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0355",
-    "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
-    ]
-  },
-  {
     "CVEID": "CVE-2024-44296",
     "SoftwareRepoIDList": [
       "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
@@ -43805,6 +43805,20 @@
     ]
   },
   {
+    "CVEID": "CVE-2006-2042",
+    "SoftwareRepoIDList": [
+      "c0b47956-1a82-4bc6-8c28-526ae2fc15e8",
+      "f39a39f1-cd2b-4253-9d6e-b2218ffc2f7b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4708",
+    "SoftwareRepoIDList": [
+      "c0b47956-1a82-4bc6-8c28-526ae2fc15e8",
+      "f39a39f1-cd2b-4253-9d6e-b2218ffc2f7b"
+    ]
+  },
+  {
     "CVEID": "CVE-2019-7956",
     "SoftwareRepoIDList": [
       "c0b47956-1a82-4bc6-8c28-526ae2fc15e8",
@@ -43827,20 +43841,6 @@
   },
   {
     "CVEID": "CVE-2008-6062",
-    "SoftwareRepoIDList": [
-      "c0b47956-1a82-4bc6-8c28-526ae2fc15e8",
-      "f39a39f1-cd2b-4253-9d6e-b2218ffc2f7b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2042",
-    "SoftwareRepoIDList": [
-      "c0b47956-1a82-4bc6-8c28-526ae2fc15e8",
-      "f39a39f1-cd2b-4253-9d6e-b2218ffc2f7b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4708",
     "SoftwareRepoIDList": [
       "c0b47956-1a82-4bc6-8c28-526ae2fc15e8",
       "f39a39f1-cd2b-4253-9d6e-b2218ffc2f7b"
@@ -45217,18 +45217,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2017-17689",
-    "SoftwareRepoIDList": [
-      "4383cf74-bf8f-4bf8-aab8-1065bf8cdf1e"
-    ]
-  },
-  {
-    "CVEID": "CVE-2017-17688",
-    "SoftwareRepoIDList": [
-      "4383cf74-bf8f-4bf8-aab8-1065bf8cdf1e"
-    ]
-  },
-  {
     "CVEID": "CVE-2005-2512",
     "SoftwareRepoIDList": [
       "4383cf74-bf8f-4bf8-aab8-1065bf8cdf1e"
@@ -45236,6 +45224,18 @@
   },
   {
     "CVEID": "CVE-2005-1505",
+    "SoftwareRepoIDList": [
+      "4383cf74-bf8f-4bf8-aab8-1065bf8cdf1e"
+    ]
+  },
+  {
+    "CVEID": "CVE-2017-17689",
+    "SoftwareRepoIDList": [
+      "4383cf74-bf8f-4bf8-aab8-1065bf8cdf1e"
+    ]
+  },
+  {
+    "CVEID": "CVE-2017-17688",
     "SoftwareRepoIDList": [
       "4383cf74-bf8f-4bf8-aab8-1065bf8cdf1e"
     ]
@@ -45730,6 +45730,30 @@
     "CVEID": "CVE-2020-9299",
     "SoftwareRepoIDList": [
       "d7424781-324a-44bc-ae68-a98f6aba2b48"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1119",
+    "SoftwareRepoIDList": [
+      "f6b863cd-8f1c-4583-8bc5-ee59e86e5cf1"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0150",
+    "SoftwareRepoIDList": [
+      "f6b863cd-8f1c-4583-8bc5-ee59e86e5cf1"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0089",
+    "SoftwareRepoIDList": [
+      "f6b863cd-8f1c-4583-8bc5-ee59e86e5cf1"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1542",
+    "SoftwareRepoIDList": [
+      "f6b863cd-8f1c-4583-8bc5-ee59e86e5cf1"
     ]
   },
   {
@@ -46435,30 +46459,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-1542",
-    "SoftwareRepoIDList": [
-      "f6b863cd-8f1c-4583-8bc5-ee59e86e5cf1"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0089",
-    "SoftwareRepoIDList": [
-      "f6b863cd-8f1c-4583-8bc5-ee59e86e5cf1"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0150",
-    "SoftwareRepoIDList": [
-      "f6b863cd-8f1c-4583-8bc5-ee59e86e5cf1"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1119",
-    "SoftwareRepoIDList": [
-      "f6b863cd-8f1c-4583-8bc5-ee59e86e5cf1"
-    ]
-  },
-  {
     "CVEID": "CVE-2023-48135",
     "SoftwareRepoIDList": [
       "9e4e1f48-aa91-439d-99f4-f2e85a14aebe"
@@ -46972,6 +46972,42 @@
     "CVEID": "CVE-2017-8307",
     "SoftwareRepoIDList": [
       "0bb7780a-ab04-43d6-91a7-ce1bd141ecd6"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2938",
+    "SoftwareRepoIDList": [
+      "8c76f579-10fc-490b-a5ae-34942f92b5b5"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1467",
+    "SoftwareRepoIDList": [
+      "8c76f579-10fc-490b-a5ae-34942f92b5b5"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4092",
+    "SoftwareRepoIDList": [
+      "8c76f579-10fc-490b-a5ae-34942f92b5b5"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0043",
+    "SoftwareRepoIDList": [
+      "8c76f579-10fc-490b-a5ae-34942f92b5b5"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1249",
+    "SoftwareRepoIDList": [
+      "8c76f579-10fc-490b-a5ae-34942f92b5b5"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-1248",
+    "SoftwareRepoIDList": [
+      "8c76f579-10fc-490b-a5ae-34942f92b5b5"
     ]
   },
   {
@@ -48925,42 +48961,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-1467",
-    "SoftwareRepoIDList": [
-      "8c76f579-10fc-490b-a5ae-34942f92b5b5"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1249",
-    "SoftwareRepoIDList": [
-      "8c76f579-10fc-490b-a5ae-34942f92b5b5"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4092",
-    "SoftwareRepoIDList": [
-      "8c76f579-10fc-490b-a5ae-34942f92b5b5"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2938",
-    "SoftwareRepoIDList": [
-      "8c76f579-10fc-490b-a5ae-34942f92b5b5"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-1248",
-    "SoftwareRepoIDList": [
-      "8c76f579-10fc-490b-a5ae-34942f92b5b5"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0043",
-    "SoftwareRepoIDList": [
-      "8c76f579-10fc-490b-a5ae-34942f92b5b5"
-    ]
-  },
-  {
     "CVEID": "CVE-2023-41763",
     "SoftwareRepoIDList": [
       "9553030a-6961-4dab-bc36-7f83cd8b188f"
@@ -49081,7 +49081,7 @@
     ]
   },
   {
-    "CVEID": "CVE-2004-0937",
+    "CVEID": "CVE-2004-0933",
     "SoftwareRepoIDList": [
       "245b36a3-631c-4503-9f75-2df181786d37"
     ]
@@ -49093,25 +49093,25 @@
     ]
   },
   {
-    "CVEID": "CVE-2004-0935",
-    "SoftwareRepoIDList": [
-      "245b36a3-631c-4503-9f75-2df181786d37"
-    ]
-  },
-  {
     "CVEID": "CVE-2004-0934",
     "SoftwareRepoIDList": [
       "245b36a3-631c-4503-9f75-2df181786d37"
     ]
   },
   {
-    "CVEID": "CVE-2004-0933",
+    "CVEID": "CVE-2004-0932",
     "SoftwareRepoIDList": [
       "245b36a3-631c-4503-9f75-2df181786d37"
     ]
   },
   {
-    "CVEID": "CVE-2004-0932",
+    "CVEID": "CVE-2004-0935",
+    "SoftwareRepoIDList": [
+      "245b36a3-631c-4503-9f75-2df181786d37"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0937",
     "SoftwareRepoIDList": [
       "245b36a3-631c-4503-9f75-2df181786d37"
     ]
@@ -49144,6 +49144,30 @@
     "CVEID": "CVE-2010-3130",
     "SoftwareRepoIDList": [
       "b9414de4-e035-4753-b363-042cbbee5926"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1511",
+    "SoftwareRepoIDList": [
+      "9f01530e-adc1-4fa0-98ed-afc53dda73e5"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0971",
+    "SoftwareRepoIDList": [
+      "9f01530e-adc1-4fa0-98ed-afc53dda73e5"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1848",
+    "SoftwareRepoIDList": [
+      "9f01530e-adc1-4fa0-98ed-afc53dda73e5"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1336",
+    "SoftwareRepoIDList": [
+      "9f01530e-adc1-4fa0-98ed-afc53dda73e5"
     ]
   },
   {
@@ -49184,30 +49208,6 @@
   },
   {
     "CVEID": "CVE-2009-0388",
-    "SoftwareRepoIDList": [
-      "9f01530e-adc1-4fa0-98ed-afc53dda73e5"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1848",
-    "SoftwareRepoIDList": [
-      "9f01530e-adc1-4fa0-98ed-afc53dda73e5"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1511",
-    "SoftwareRepoIDList": [
-      "9f01530e-adc1-4fa0-98ed-afc53dda73e5"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1336",
-    "SoftwareRepoIDList": [
-      "9f01530e-adc1-4fa0-98ed-afc53dda73e5"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0971",
     "SoftwareRepoIDList": [
       "9f01530e-adc1-4fa0-98ed-afc53dda73e5"
     ]
@@ -49687,6 +49687,54 @@
     ]
   },
   {
+    "CVEID": "CVE-2005-2533",
+    "SoftwareRepoIDList": [
+      "1693c178-88e9-41fe-acf2-42642fb398d8"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3409",
+    "SoftwareRepoIDList": [
+      "1693c178-88e9-41fe-acf2-42642fb398d8"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2532",
+    "SoftwareRepoIDList": [
+      "1693c178-88e9-41fe-acf2-42642fb398d8"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1629",
+    "SoftwareRepoIDList": [
+      "1693c178-88e9-41fe-acf2-42642fb398d8"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2534",
+    "SoftwareRepoIDList": [
+      "1693c178-88e9-41fe-acf2-42642fb398d8"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3393",
+    "SoftwareRepoIDList": [
+      "1693c178-88e9-41fe-acf2-42642fb398d8"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2531",
+    "SoftwareRepoIDList": [
+      "1693c178-88e9-41fe-acf2-42642fb398d8"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2229",
+    "SoftwareRepoIDList": [
+      "1693c178-88e9-41fe-acf2-42642fb398d8"
+    ]
+  },
+  {
     "CVEID": "CVE-2024-27903",
     "SoftwareRepoIDList": [
       "1693c178-88e9-41fe-acf2-42642fb398d8"
@@ -49837,54 +49885,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-2229",
-    "SoftwareRepoIDList": [
-      "1693c178-88e9-41fe-acf2-42642fb398d8"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1629",
-    "SoftwareRepoIDList": [
-      "1693c178-88e9-41fe-acf2-42642fb398d8"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3409",
-    "SoftwareRepoIDList": [
-      "1693c178-88e9-41fe-acf2-42642fb398d8"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3393",
-    "SoftwareRepoIDList": [
-      "1693c178-88e9-41fe-acf2-42642fb398d8"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2534",
-    "SoftwareRepoIDList": [
-      "1693c178-88e9-41fe-acf2-42642fb398d8"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2533",
-    "SoftwareRepoIDList": [
-      "1693c178-88e9-41fe-acf2-42642fb398d8"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2532",
-    "SoftwareRepoIDList": [
-      "1693c178-88e9-41fe-acf2-42642fb398d8"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2531",
-    "SoftwareRepoIDList": [
-      "1693c178-88e9-41fe-acf2-42642fb398d8"
-    ]
-  },
-  {
     "CVEID": "CVE-2020-27708",
     "SoftwareRepoIDList": [
       "d2da5782-9f6b-4fd2-8c36-5e9ebfa9ed8f"
@@ -49918,6 +49918,18 @@
     "CVEID": "CVE-2019-11354",
     "SoftwareRepoIDList": [
       "d2da5782-9f6b-4fd2-8c36-5e9ebfa9ed8f"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-2687",
+    "SoftwareRepoIDList": [
+      "de886c3d-f45d-4659-ba08-ab46b7248773"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1466",
+    "SoftwareRepoIDList": [
+      "de886c3d-f45d-4659-ba08-ab46b7248773"
     ]
   },
   {
@@ -50401,18 +50413,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-1466",
-    "SoftwareRepoIDList": [
-      "de886c3d-f45d-4659-ba08-ab46b7248773"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-2687",
-    "SoftwareRepoIDList": [
-      "de886c3d-f45d-4659-ba08-ab46b7248773"
-    ]
-  },
-  {
     "CVEID": "CVE-2023-33245",
     "SoftwareRepoIDList": [
       "a05b3f90-2b47-448a-8fed-dc4158c023f5"
@@ -50425,7 +50425,7 @@
     ]
   },
   {
-    "CVEID": "CVE-2011-2131",
+    "CVEID": "CVE-2005-0151",
     "SoftwareRepoIDList": [
       "f8128611-e148-4925-8368-629459b8f836"
     ]
@@ -50438,7 +50438,7 @@
     ]
   },
   {
-    "CVEID": "CVE-2005-0151",
+    "CVEID": "CVE-2011-2131",
     "SoftwareRepoIDList": [
       "f8128611-e148-4925-8368-629459b8f836"
     ]
@@ -50465,6 +50465,228 @@
     "CVEID": "CVE-2019-11931",
     "SoftwareRepoIDList": [
       "892335b3-1237-4dad-a859-56086cdf9c94"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0573",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0002",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0419",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0615",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0854",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0004",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0008",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0028",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0003",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1316",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1259",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0347",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0794",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0033",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0021",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0619",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0384",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0031",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0009",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1540",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1716",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0030",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0846",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0152",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0618",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0088",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0029",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0848",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0121",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0617",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2389",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3493",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4534",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0616",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2492",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0007",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0001",
+    "SoftwareRepoIDList": [
+      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
     ]
   },
   {
@@ -50721,12 +50943,6 @@
   },
   {
     "CVEID": "CVE-2019-0541",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2492",
     "SoftwareRepoIDList": [
       "d7e878a7-e225-4ffa-9dd9-403c763ce289"
     ]
@@ -54715,12 +54931,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-4534",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
     "CVEID": "CVE-2006-3877",
     "SoftwareRepoIDList": [
       "d7e878a7-e225-4ffa-9dd9-403c763ce289"
@@ -54763,12 +54973,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-3493",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
     "CVEID": "CVE-2006-3435",
     "SoftwareRepoIDList": [
       "d7e878a7-e225-4ffa-9dd9-403c763ce289"
@@ -54781,31 +54985,13 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-2389",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
     "CVEID": "CVE-2006-2387",
     "SoftwareRepoIDList": [
       "d7e878a7-e225-4ffa-9dd9-403c763ce289"
     ]
   },
   {
-    "CVEID": "CVE-2006-1540",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
     "CVEID": "CVE-2006-1318",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1316",
     "SoftwareRepoIDList": [
       "d7e878a7-e225-4ffa-9dd9-403c763ce289"
     ]
@@ -54818,192 +55004,6 @@
   },
   {
     "CVEID": "CVE-2006-1305",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0033",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0031",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0030",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0029",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0028",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0009",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0008",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0007",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0004",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0002",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0001",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0848",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0846",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0573",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0121",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0347",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1716",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0619",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0618",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0617",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0616",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0615",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0152",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0021",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0003",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0854",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0419",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0088",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1259",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0794",
-    "SoftwareRepoIDList": [
-      "d7e878a7-e225-4ffa-9dd9-403c763ce289"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0384",
     "SoftwareRepoIDList": [
       "d7e878a7-e225-4ffa-9dd9-403c763ce289"
     ]
@@ -58009,6 +58009,18 @@
     ]
   },
   {
+    "CVEID": "CVE-2005-0850",
+    "SoftwareRepoIDList": [
+      "6dafa205-1e9d-4875-8ad3-c5fc64a17e4b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0851",
+    "SoftwareRepoIDList": [
+      "6dafa205-1e9d-4875-8ad3-c5fc64a17e4b"
+    ]
+  },
+  {
     "CVEID": "CVE-2014-0160",
     "SoftwareRepoIDList": [
       "6dafa205-1e9d-4875-8ad3-c5fc64a17e4b"
@@ -58028,18 +58040,6 @@
   },
   {
     "CVEID": "CVE-2006-6565",
-    "SoftwareRepoIDList": [
-      "6dafa205-1e9d-4875-8ad3-c5fc64a17e4b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0851",
-    "SoftwareRepoIDList": [
-      "6dafa205-1e9d-4875-8ad3-c5fc64a17e4b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0850",
     "SoftwareRepoIDList": [
       "6dafa205-1e9d-4875-8ad3-c5fc64a17e4b"
     ]
@@ -58099,6 +58099,594 @@
     ]
   },
   {
+    "CVEID": "CVE-1999-0012",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0777",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0739",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1181",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0205",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0869",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1591",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0148",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1375",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0150",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0253",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0075",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1695",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0448",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0149",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0258",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0874",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0737",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0419",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0079",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0631",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0333",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0336",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1694",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0408",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0450",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0867",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1011",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0229",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0281",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-1104",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-1147",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0007",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0364",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0167",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0725",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0413",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0147",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0154",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0115",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0004",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0738",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1233",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1537",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0407",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1223",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0223",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0072",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0709",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0770",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0025",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0334",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0884",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0718",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0074",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0858",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0412",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0191",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0500",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1148",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0545",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-1243",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1451",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0304",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0457",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0649",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0114",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0024",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0096",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1790",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0126",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0071",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1544",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0886",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0506",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0630",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0736",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0337",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1478",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0246",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-1090",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0970",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1035",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0335",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0746",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1376",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0225",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1538",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0073",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0026",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0349",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0861",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0348",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0226",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0449",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0278",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2678",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0071",
+    "SoftwareRepoIDList": [
+      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
+    ]
+  },
+  {
     "CVEID": "CVE-2010-1899",
     "SoftwareRepoIDList": [
       "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
@@ -58135,595 +58723,7 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-0026",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2678",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0205",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
     "CVEID": "CVE-2003-1582",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0718",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0225",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0223",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1790",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1695",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1694",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1181",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0869",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0419",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0364",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0150",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0149",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0148",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0147",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0079",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0075",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0074",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0073",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0072",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0071",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-1243",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0709",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0545",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0506",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0500",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0337",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0336",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0335",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0334",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0333",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0096",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0004",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-1147",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-1104",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-1090",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0970",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0886",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0884",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0858",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0770",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0746",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0649",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0631",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0630",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0457",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0413",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0408",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0304",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0258",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0246",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0226",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0167",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0126",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0115",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0114",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0071",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0025",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0024",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1591",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1544",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1538",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1537",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1478",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1451",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1376",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1375",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1233",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1223",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1148",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1035",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1011",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0874",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0867",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0861",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0777",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0739",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0738",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0737",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0736",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0725",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0450",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0449",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0448",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0412",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0407",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0349",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0348",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0281",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0278",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0253",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0229",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0191",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0154",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0012",
-    "SoftwareRepoIDList": [
-      "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0007",
     "SoftwareRepoIDList": [
       "dab9e8ab-62d0-40ca-9305-d5ffdf39d082"
     ]
@@ -58999,6 +58999,12 @@
     ]
   },
   {
+    "CVEID": "CVE-2006-3250",
+    "SoftwareRepoIDList": [
+      "a75d367f-ef15-443c-86c1-cb493fc7f353"
+    ]
+  },
+  {
     "CVEID": "CVE-2009-0647",
     "SoftwareRepoIDList": [
       "a75d367f-ef15-443c-86c1-cb493fc7f353"
@@ -59035,9 +59041,231 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-3250",
+    "CVEID": "CVE-2006-3231",
     "SoftwareRepoIDList": [
-      "a75d367f-ef15-443c-86c1-cb493fc7f353"
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2433",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4223",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0962",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0389",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-1112",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4136",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0652",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3498",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0425",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2430",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2436",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0824",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1153",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3232",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1447",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2342",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4222",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-1189",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0122",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2431",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0497",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3760",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4413",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4137",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1093",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4833",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0852",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0390",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1619",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4834",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0848",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2432",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-1872",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2434",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2429",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2091",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2435",
+    "SoftwareRepoIDList": [
+      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
     ]
   },
   {
@@ -61069,234 +61297,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-4223",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-4222",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-4137",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-4136",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3232",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3231",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2436",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2435",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2434",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2433",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2432",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2431",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2430",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2429",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2342",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1619",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1093",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4834",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4833",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4413",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3760",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3498",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2091",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-1872",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-1112",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0425",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1447",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1153",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-1189",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0962",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0824",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0390",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0389",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0122",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0848",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0652",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0497",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0852",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
     "CVEID": "CVE-2024-45087",
     "SoftwareRepoIDList": [
       "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
@@ -62227,7 +62227,1789 @@
     ]
   },
   {
+    "CVEID": "CVE-2002-1984",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0532",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0768",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1094",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3513",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0216",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0332",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0979",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1447",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1326",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-2476",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1173",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0266",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0322",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-1989",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0553",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1359",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0331",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0056",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3658",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3638",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1367",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0354",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1575",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1564",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-1325",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0702",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0871",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1670",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0815",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1331",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-1410",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0089",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2274",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0077",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3450",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0723",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0664",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0464",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1453",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0816",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1190",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3637",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1050",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1688",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0090",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2378",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0057",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0061",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4810",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0814",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3545",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1714",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1016",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0188",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3227",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1473",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1043",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0488",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0530",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0513",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0904",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0078",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3200",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1388",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0830",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1048",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0031",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0055",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0027",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4844",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1128",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0116",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1559",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0869",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0024",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0149",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0793",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1110",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0976",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0723",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1376",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1527",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0339",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2382",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0701",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0280",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1254",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0845",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0531",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3643",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1187",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3657",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1446",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0023",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3640",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1671",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0461",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0670",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0712",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0400",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0490",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0549",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0101",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0842",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0114",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1185",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0980",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2385",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0233",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0201",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4841",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0160",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0242",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0344",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0092",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1186",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0668",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0799",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1235",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0518",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1188",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0057",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0162",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0447",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-1450",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3281",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0891",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0113",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1192",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0309",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0371",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
     "CVEID": "CVE-2001-0667",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0053",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0838",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0954",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0724",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1241",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4842",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1303",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0767",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0874",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3240",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0500",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0917",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4717",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0858",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1416",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-2011",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1992",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1155",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1186",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1142",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-2307",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0246",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1105",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-3312",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-2704",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-1497",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1705",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-2383",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3472",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0722",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0329",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0022",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2384",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-2062",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0727",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0189",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0807",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0439",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1166",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0465",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1028",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2830",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3280",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0766",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0827",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-0585",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0823",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0154",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1016",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0982",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0338",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0839",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-2219",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0722",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1824",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-1988",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0809",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0519",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0054",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0052",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0214",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0503",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4827",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0875",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0647",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0719",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3898",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1217",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1472",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1041",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0867",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3354",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0554",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-4193",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0919",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0156",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3591",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0648",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3639",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1025",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-2125",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2087",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0981",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2831",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0150",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0028",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0815",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0115",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2766",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0832",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0662",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0566",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0469",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0555",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0468",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0136",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0967",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1370",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0025",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1577",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0643",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0484",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1305",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1026",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1578",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0519",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1328",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3605",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-1829",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-2291",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1087",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1027",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0002",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1922",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1444",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1188",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0691",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0876",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3357",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-1198",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-1990",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0191",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1191",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0526",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4089",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1185",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-2090",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2829",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0727",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0537",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-0500",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0446",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0669",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2094",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0870",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-1790",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-4843",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0269",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0877",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-2383",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0843",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2000-0596",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-1505",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0841",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3427",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0420",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0802",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-1093",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0193",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-3659",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0284",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-0091",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-1262",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0026",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-0190",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-1999-0487",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-1539",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2006-1189",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-2304",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-2311",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2004-0866",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2003-0817",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2005-1211",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2002-2031",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
+    "CVEID": "CVE-2001-1219",
     "SoftwareRepoIDList": [
       "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
     ]
@@ -66685,1789 +68467,7 @@
     ]
   },
   {
-    "CVEID": "CVE-2006-4193",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3898",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3659",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3658",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3657",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3643",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3640",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3639",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3638",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3637",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3605",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3591",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3545",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3513",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3472",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3450",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3427",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3357",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3354",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3281",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3280",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3227",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-3200",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2766",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2385",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2384",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2383",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2382",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2378",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-2094",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1992",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1388",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1359",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1303",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1192",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1191",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1190",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1189",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1188",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1186",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1185",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-1016",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0830",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0799",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0585",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2006-0057",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4844",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4843",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4842",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4841",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4827",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4810",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4717",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-4089",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3312",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-3240",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2831",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2830",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2829",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2304",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2274",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-2087",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-1990",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-1989",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-1988",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-1829",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-1790",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-1211",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0954",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0555",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0554",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0553",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0500",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0056",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0055",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0054",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2005-0053",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-2704",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-2476",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-2383",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-2307",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-2291",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-2219",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-2090",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-2011",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1922",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1527",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1416",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1376",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1331",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1198",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1173",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1166",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1155",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1050",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-1043",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0979",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0867",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0866",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0845",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0843",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0842",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0841",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0839",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0727",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0719",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0566",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0549",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0526",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0484",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0420",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0284",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0216",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2004-0214",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1559",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1505",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1328",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1326",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1305",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1105",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1048",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1041",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1028",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1027",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1026",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-1025",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0838",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0823",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0817",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0816",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0815",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0814",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0809",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0701",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0532",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0531",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0530",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0519",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0513",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0447",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0446",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0344",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0309",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0233",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0116",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0115",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0114",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2003-0113",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
     "CVEID": "CVE-2002-2435",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-2311",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-2125",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-2062",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-2031",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1984",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1824",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1714",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1705",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1688",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1671",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1670",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1564",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1444",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1262",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1254",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1217",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1188",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1187",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1186",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1185",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-1142",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0980",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0976",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0832",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0815",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0723",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0722",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0691",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0648",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0647",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0500",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0461",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0371",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0269",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0242",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0193",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0191",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0190",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0189",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0188",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0136",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0101",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0078",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0077",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0057",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0052",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0027",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0026",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0025",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0024",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0023",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2002-0022",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-1539",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-1497",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-1450",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-1410",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-1325",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-1219",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0919",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0904",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0875",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0874",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0807",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0727",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0724",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0723",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0722",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0712",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0664",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0643",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0339",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0338",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0332",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0322",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0246",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0154",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0150",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0149",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0092",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0091",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0090",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0089",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2001-0002",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0982",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0768",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0767",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0662",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0596",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0519",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0518",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0503",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0465",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0464",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0439",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0400",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0329",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0266",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0201",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0162",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0160",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0156",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0061",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-2000-0028",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1578",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1577",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1575",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1473",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1472",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1453",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1447",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1446",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1370",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1367",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1241",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1235",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1128",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1110",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1094",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1093",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1087",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-1016",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0981",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0967",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0917",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0891",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0877",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0876",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0871",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0870",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0869",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0858",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0827",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0802",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0793",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0766",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0702",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0670",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0669",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0668",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0537",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0490",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0488",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0487",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0469",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0468",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0354",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0331",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0280",
-    "SoftwareRepoIDList": [
-      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
-    ]
-  },
-  {
-    "CVEID": "CVE-1999-0031",
     "SoftwareRepoIDList": [
       "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
     ]
