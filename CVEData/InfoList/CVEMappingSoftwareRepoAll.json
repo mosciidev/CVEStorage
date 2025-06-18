@@ -50161,6 +50161,12 @@
     ]
   },
   {
+    "CVEID": "CVE-2015-4551",
+    "SoftwareRepoIDList": [
+      "c757b1a3-18bc-4690-b09f-806ab53c65f2"
+    ]
+  },
+  {
     "CVEID": "CVE-2015-1774",
     "SoftwareRepoIDList": [
       "c757b1a3-18bc-4690-b09f-806ab53c65f2"
@@ -56810,6 +56816,12 @@
   },
   {
     "CVEID": "CVE-2023-21946",
+    "SoftwareRepoIDList": [
+      "cb261770-de65-4781-9afb-4317f1889f23"
+    ]
+  },
+  {
+    "CVEID": "CVE-2023-21945",
     "SoftwareRepoIDList": [
       "cb261770-de65-4781-9afb-4317f1889f23"
     ]
