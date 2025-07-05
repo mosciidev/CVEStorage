@@ -67213,6 +67213,12 @@
     ]
   },
   {
+    "CVEID": "CVE-2013-3141",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
     "CVEID": "CVE-2013-3916",
     "SoftwareRepoIDList": [
       "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
