@@ -17642,6 +17642,12 @@
     ]
   },
   {
+    "CVEID": "CVE-2019-13736",
+    "SoftwareRepoIDList": [
+      "e53902ef-a0c7-460e-96ad-c1780efc7674"
+    ]
+  },
+  {
     "CVEID": "CVE-2019-13735",
     "SoftwareRepoIDList": [
       "e53902ef-a0c7-460e-96ad-c1780efc7674"
@@ -28708,6 +28714,12 @@
   },
   {
     "CVEID": "CVE-2017-17730",
+    "SoftwareRepoIDList": [
+      "f491c1a9-2abf-44fb-bbc0-416175136955"
+    ]
+  },
+  {
+    "CVEID": "CVE-2022-46442",
     "SoftwareRepoIDList": [
       "f491c1a9-2abf-44fb-bbc0-416175136955"
     ]
