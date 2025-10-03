@@ -68347,6 +68347,12 @@
     ]
   },
   {
+    "CVEID": "CVE-2006-1016",
+    "SoftwareRepoIDList": [
+      "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
+    ]
+  },
+  {
     "CVEID": "CVE-2002-0188",
     "SoftwareRepoIDList": [
       "20db8eb5-992a-4d02-97ee-4cb8d3d88cd7"
