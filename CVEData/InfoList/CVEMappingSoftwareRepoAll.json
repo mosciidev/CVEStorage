@@ -22412,6 +22412,12 @@
     ]
   },
   {
+    "CVEID": "CVE-2016-7176",
+    "SoftwareRepoIDList": [
+      "860d7f8a-2eda-471e-a32d-3e20a772fa70"
+    ]
+  },
+  {
     "CVEID": "CVE-2016-2529",
     "SoftwareRepoIDList": [
       "860d7f8a-2eda-471e-a32d-3e20a772fa70"
