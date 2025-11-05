@@ -32272,6 +32272,12 @@
     ]
   },
   {
+    "CVEID": "CVE-2007-1383",
+    "SoftwareRepoIDList": [
+      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
+    ]
+  },
+  {
     "CVEID": "CVE-2007-1460",
     "SoftwareRepoIDList": [
       "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
@@ -44522,12 +44528,6 @@
     "CVEID": "CVE-2024-7511",
     "SoftwareRepoIDList": [
       "a40a0adb-1e31-490e-a18b-ed2843f5820f"
-    ]
-  },
-  {
-    "CVEID": "CVE-2013-2586",
-    "SoftwareRepoIDList": [
-      "e0dc8eb7-90b9-4bca-970c-715b374e1baf"
     ]
   },
   {
