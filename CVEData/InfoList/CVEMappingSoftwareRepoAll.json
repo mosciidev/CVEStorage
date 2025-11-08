@@ -60649,12 +60649,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2014-0857",
-    "SoftwareRepoIDList": [
-      "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
-    ]
-  },
-  {
     "CVEID": "CVE-2016-3042",
     "SoftwareRepoIDList": [
       "ebdcecd6-2f37-4c01-9d50-68d221267b6b"
