@@ -33823,8 +33823,7 @@
   {
     "CVEID": "CVE-2024-39576",
     "SoftwareRepoIDList": [
-      "91fdfdc0-3415-421b-9510-787f77ccb319",
-      "b9bcc8f0-0e92-42ca-9df0-ffd5881b36c0"
+      "91fdfdc0-3415-421b-9510-787f77ccb319"
     ]
   },
   {
@@ -36165,6 +36164,12 @@
   },
   {
     "CVEID": "CVE-2022-32990",
+    "SoftwareRepoIDList": [
+      "0a145fc8-2d54-4e8c-9f7a-dd6e7bd41004"
+    ]
+  },
+  {
+    "CVEID": "CVE-2022-30067",
     "SoftwareRepoIDList": [
       "0a145fc8-2d54-4e8c-9f7a-dd6e7bd41004"
     ]
@@ -42536,8 +42541,7 @@
   {
     "CVEID": "CVE-2019-8812",
     "SoftwareRepoIDList": [
-      "cf5009a8-b212-42d4-9130-3d0eeec96c9a",
-      "8c76f579-10fc-490b-a5ae-34942f92b5b5"
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
     ]
   },
   {
@@ -45539,6 +45543,12 @@
   },
   {
     "CVEID": "CVE-2024-21890",
+    "SoftwareRepoIDList": [
+      "d9fcf5c5-e1ff-4feb-8eb3-61341c4ab05c"
+    ]
+  },
+  {
+    "CVEID": "CVE-2019-9514",
     "SoftwareRepoIDList": [
       "d9fcf5c5-e1ff-4feb-8eb3-61341c4ab05c"
     ]
