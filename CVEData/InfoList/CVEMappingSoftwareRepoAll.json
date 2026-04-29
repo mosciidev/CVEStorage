@@ -58561,12 +58561,6 @@
     ]
   },
   {
-    "CVEID": "CVE-2023-0587",
-    "SoftwareRepoIDList": [
-      "702245b0-e13c-45d1-815a-76006e334a95"
-    ]
-  },
-  {
     "CVEID": "CVE-2024-36303",
     "SoftwareRepoIDList": [
       "702245b0-e13c-45d1-815a-76006e334a95"
