@@ -7436,6 +7436,12 @@
     ]
   },
   {
+    "CVEID": "CVE-2011-3024",
+    "SoftwareRepoIDList": [
+      "e53902ef-a0c7-460e-96ad-c1780efc7674"
+    ]
+  },
+  {
     "CVEID": "CVE-2012-2824",
     "SoftwareRepoIDList": [
       "e53902ef-a0c7-460e-96ad-c1780efc7674"
@@ -30995,12 +31001,6 @@
   },
   {
     "CVEID": "CVE-2014-9426",
-    "SoftwareRepoIDList": [
-      "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
-    ]
-  },
-  {
-    "CVEID": "CVE-2013-1824",
     "SoftwareRepoIDList": [
       "1b41d4b5-5f15-42b3-9ccb-b0bd54a4d0b3"
     ]
