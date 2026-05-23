@@ -41539,6 +41539,12 @@
     ]
   },
   {
+    "CVEID": "CVE-2020-9911",
+    "SoftwareRepoIDList": [
+      "cf5009a8-b212-42d4-9130-3d0eeec96c9a"
+    ]
+  },
+  {
     "CVEID": "CVE-2020-9910",
     "SoftwareRepoIDList": [
       "cf5009a8-b212-42d4-9130-3d0eeec96c9a",
@@ -59118,12 +59124,6 @@
   },
   {
     "CVEID": "CVE-2018-16712",
-    "SoftwareRepoIDList": [
-      "078611e5-bc58-426e-9574-1a8dd44e2f54"
-    ]
-  },
-  {
-    "CVEID": "CVE-2018-16711",
     "SoftwareRepoIDList": [
       "078611e5-bc58-426e-9574-1a8dd44e2f54"
     ]
